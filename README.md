@@ -33,7 +33,8 @@ This is a small dataset of 471 images. Link to the data is: [here](https://drive
 
 # Encoder Design
 
-![encoder1 design](https://github.com/logic-OT/TRANSFORMER-FROM-SCRATCH/assets/61668807/fd770a19-cce2-4de0-bbd7-d1a38cc3a4ff)
+![encoder1 design](https://github.com/logic-OT/TRANSFORMER-FROM-SCRATCH/assets/61668807/2d39611e-f468-4951-9a83-e258f10a3720)
+
 
 
 # Performance
