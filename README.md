@@ -26,7 +26,7 @@ This Repo contains 2 files: <b> transformer_utils.py </b> and <b> ViT Experiment
 
 2. <b> ViT Experiments.py</b>: The notebook where I trained my transformer model to classify <b>Hat</b> or <b>No hat</b> images. All preprocessing and visualisations are done here.
    
-4. Notes: These are a summary of observations corrections I made which i think would help with better undersatnding
+4. <b>OBSERVATIONS.txt</b>: These are a summary of observations corrections I made which i think would help with better undersatnding
 
 # Data
 This is a small dataset of 471 images. Link to the data is: [here](https://drive.google.com/drive/folders/1G_ok5crD1EXH4tjZ3yLpyAZr6lAvNBx1?usp=sharin#g)
