@@ -170,19 +170,3 @@ class encoder_layer(torch.nn.Module):
         x = self.feed_forward(x)
         x = self.layerNorm(x)
         return x
-    
-    def feed_forward(self,x):
-        x = self.layer1(x)
-        x = self.relu(x)
-        x = self.layer2(x) 
-        x = self.relu(x)
-        x = self.layer3(x)
-        
-        return x
-
-    def forward(self,x):
-        x = self.single_head(x)
-        x = self.layerNorm(x)
-        x = self.feed_forward(x)
-        x = self.layerNorm(x)
-        return x
